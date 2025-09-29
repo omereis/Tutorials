@@ -20,3 +20,4 @@ ts*.dat
 *.il*
 Win32/*
 *.sqlite
+./.vs/*
